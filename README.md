@@ -10,41 +10,66 @@
 </div>
 
 <h2 align="center">🛠️ Tech Stack</h2>
-<img src="https://skillicons.dev/icons?i=html"> HTML  
-  <img src="https://skillicons.dev/icons?i=css"> CSS  
-  <img src="https://skillicons.dev/icons?i=js"> JavaScript  
-  <img src="https://skillicons.dev/icons?i=tailwind"> Tailwind CSS  
-  <img src="https://skillicons.dev/icons?i=bootstrap"> Bootstrap  
-  <img src="https://skillicons.dev/icons?i=react"> React  
-  <img src="https://skillicons.dev/icons?i=nextjs"> Next.js
 
+<!-- Frontend -->
+<h3 align="center">🎨 Frontend</h3>
+<p align="center">
+  <table>
+    <tr>
+      <td align="center"><img src="https://skillicons.dev/icons?i=html" width="50"/><br>HTML</td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=css" width="50"/><br>CSS</td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=js" width="50"/><br>JavaScript</td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=tailwind" width="50"/><br>Tailwind</td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=bootstrap" width="50"/><br>Bootstrap</td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=react" width="50"/><br>React</td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=nextjs" width="50"/><br>Next.js</td>
+    </tr>
+  </table>
+</p>
 
-⚙️ Backend
+<!-- Backend -->
+<h3 align="center">⚙️ Backend</h3>
+<p align="center">
+  <table>
+    <tr>
+      <td align="center"><img src="https://skillicons.dev/icons?i=nodejs" width="50"/><br>Node.js</td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=express" width="50"/><br>Express</td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=nestjs" width="50"/><br>NestJS</td>
+      <td align="center"><img src="https://uxwing.com/wp-content/themes/uxwing/download/web-app-development/rest-api-icon.svg" width="50"/><br>REST API</td>
+    </tr>
+  </table>
+</p>
 
-  <img src="https://skillicons.dev/icons?i=nodejs"> Node.js  
-  <img src="https://skillicons.dev/icons?i=express"> Express.js  
-  <img src="https://skillicons.dev/icons?i=nestjs"> NestJS  
-  <img src="https://uxwing.com/wp-content/themes/uxwing/download/web-app-development/rest-api-icon.svg" width="40" height="40"> REST API
+<!-- Database & Cloud -->
+<h3 align="center">💾 Database & ☁️ Cloud</h3>
+<p align="center">
+  <table>
+    <tr>
+      <td align="center"><img src="https://skillicons.dev/icons?i=mongodb" width="50"/><br>MongoDB</td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=postgres" width="50"/><br>PostgreSQL</td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=redis" width="50"/><br>Redis</td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=aws" width="50"/><br>AWS</td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=vercel" width="50"/><br>Vercel</td>
+    </tr>
+  </table>
+</p>
 
+<!-- Tools & More -->
+<h3 align="center">🧰 Tools & More</h3>
+<p align="center">
+  <table>
+    <tr>
+      <td align="center"><img src="https://skillicons.dev/icons?i=git" width="50"/><br>Git</td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=github" width="50"/><br>GitHub</td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=postman" width="50"/><br>Postman</td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=figma" width="50"/><br>Figma</td>
+      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="50"/><br>Google Auth</td>
+      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jwt/jwt-plain.svg" width="50"/><br>JWT</td>
+      <td align="center"><img src="https://www.svgrepo.com/download/306500/openai.svg" width="50"/><br>AI</td>
+    </tr>
+  </table>
+</p>
 
-💾 Database & ☁️ Cloud
-
-  <img src="https://skillicons.dev/icons?i=mongodb"> MongoDB  
-  <img src="https://skillicons.dev/icons?i=postgres"> PostgreSQL  
-  <img src="https://skillicons.dev/icons?i=redis"> Redis  
-  <img src="https://skillicons.dev/icons?i=aws"> AWS  
-  <img src="https://skillicons.dev/icons?i=vercel"> Vercel
-
-
-🧰 Tools & More
-
-  <img src="https://skillicons.dev/icons?i=git"> Git  
-  <img src="https://skillicons.dev/icons?i=github"> GitHub  
-  <img src="https://skillicons.dev/icons?i=postman"> Postman  
-  <img src="https://skillicons.dev/icons?i=figma"> Figma  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40" height="40"> Google Auth  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jwt/jwt-original.svg" width="40" height="40"> JWT  
-  <img src="https://www.svgrepo.com/download/306500/openai.svg" width="40" height="40"> AI Integration
 
 
 
