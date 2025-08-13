@@ -9,10 +9,32 @@
   </p>
 </div>
 
+<h2 align="center">🛠️ Tech Stack</h2>
 
+<h3 align="center">🎨 Frontend</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap,react,nextjs" />
+</p>
 
- <h2 align="center">🛠️ Tech Stack</h2> 
-<p align="center"><h3 align="center">Frontend</h3> <p align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap,react,nextjs,redis"/> </p> <h3 align="center">Backend</h3> <p align="center"> <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,restapi"/> </p> <h3 align="center">Database & Cloud</h3> <p align="center"> <img src="https://skillicons.dev/icons?i=mongodb,postgres,redis,github,aws,vercel"/> </p> <h3 align="center">Tools & More</h3> <p align="center"> <img src="https://skillicons.dev/icons?i=git,github,postman,figma,ai,jwt,google"/> </p> </p>
+<h3 align="center">⚙️ Backend</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs" />
+  <img src="https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge&logo=rest&logoColor=white" />
+</p>
+
+<h3 align="center">💾 Database & ☁️ Cloud</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,redis,github,aws,vercel" />
+</p>
+
+<h3 align="center">🧰 Tools & More</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,postman,figma" />
+  <img src="https://img.shields.io/badge/AI-FF6F00?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=jsonwebtokens" />
+  <img src="https://img.shields.io/badge/Google%20Auth-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+</p>
+
 
  <h2 align="center">🌐 Connect With Me</h2> 
 <p align="center"> <a href="https://www.linkedin.com/in/mritunjay-thakur-jay/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35"> </a> &nbsp;&nbsp;&nbsp; <a href="https://www.instagram.com/___jaythakur___/" target="_blank"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="35"> </a> &nbsp;&nbsp;&nbsp; <a href="mailto:mritunjaythakur903@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35"> </a> </p>
