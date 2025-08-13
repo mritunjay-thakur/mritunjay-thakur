@@ -114,18 +114,22 @@
   </table>
 </div>
 
-<h2 align="center" style="font-family: 'Poppins', 'Segoe UI', Arial, sans-serif; color: #2c3e50; font-size: 3em; margin-bottom: 30px; text-shadow: 1px 1px 4px rgba(0,0,0,0.2);">🌟 Connect With Me</h2>
-<p align="center" style="margin: 0; padding: 30px; background: linear-gradient(135deg, #e0e7ff 0%, #ffffff 100%); border-radius: 15px; box-shadow: 0 4px 15px rgba(0,0,0,0.1);">
-  <a href="https://www.linkedin.com/in/mritunjay-thakur-jay/" target="_blank" style="text-decoration: none;">
-    <img src="https://www.iconfinder.com/icons/317750/download/png/512" height="70" style="border-radius: 10px; transition: transform 0.3s ease, box-shadow 0.3s ease; margin: 0 35px;" onmouseover="this.style.transform='scale(1.2)'; this.style.boxShadow='0 6px 20px rgba(0,0,0,0.2)'" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='none'">
+<h2 align="center">🌟 Connect With Me</h2>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/mritunjay-thakur-jay/" target="_blank" rel="noopener">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+         alt="LinkedIn" title="LinkedIn — Mritunjay Thakur" />
   </a>
-  <a href="https://www.instagram.com/___jaythakur___/" target="_blank" style="text-decoration: none;">
-    <img src="https://www.iconfinder.com/icons/317744/download/png/512" height="70" style="border-radius: 10px; transition: transform 0.3s ease, box-shadow 0.3s ease; margin: 0 35px;" onmouseover="this.style.transform='scale(1.2)'; this.style.boxShadow='0 6px 20px rgba(0,0,0,0.2)'" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='none'">
+  &nbsp;
+  <a href="https://www.instagram.com/___jaythakur___/" target="_blank" rel="noopener">
+    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
+         alt="Instagram" title="Instagram — @___jaythakur___" />
   </a>
-  <a href="mailto:mritunjaythakur903@gmail.com" style="text-decoration: none;">
-    <img src="https://www.iconfinder.com/icons/317742/download/png/512" height="70" style="border-radius: 10px; transition: transform 0.3s ease, box-shadow 0.3s ease; margin: 0 35px;" onmouseover="this.style.transform='scale(1.2)'; this.style.boxShadow='0 6px 20px rgba(0,0,0,0.2)'" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='none'">
+  &nbsp;
+  <a href="mailto:mritunjaythakur903@gmail.com" rel="noopener">
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+         alt="Email" title="Email — mritunjaythakur903@gmail.com" />
   </a>
 </p>
-<div align="center" style="margin-top: 30px;">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=130&section=footer&fontSize=26&fontColor=ffffff&animation=fadeIn" style="width: 100%; max-width: 700px; border-radius: 15px;" />
-</div>
+
