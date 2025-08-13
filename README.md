@@ -114,18 +114,18 @@
   </table>
 </div>
 
-<h2 align="center" style="font-family: 'Segoe UI', Arial, sans-serif; color: #333; font-size: 2.8em; margin-bottom: 25px; text-shadow: 1px 1px 3px rgba(0,0,0,0.15);">🌟 Connect With Me</h2>
-<p align="center" style="margin: 0; padding: 25px;">
+<h2 align="center" style="font-family: 'Poppins', 'Segoe UI', Arial, sans-serif; color: #2c3e50; font-size: 3em; margin-bottom: 30px; text-shadow: 1px 1px 4px rgba(0,0,0,0.2);">🌟 Connect With Me</h2>
+<p align="center" style="margin: 0; padding: 30px; background: linear-gradient(135deg, #e0e7ff 0%, #ffffff 100%); border-radius: 15px; box-shadow: 0 4px 15px rgba(0,0,0,0.1);">
   <a href="https://www.linkedin.com/in/mritunjay-thakur-jay/" target="_blank" style="text-decoration: none;">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="60" style="transition: transform 0.3s ease; margin: 0 30px;" onmouseover="this.style.transform='scale(1.15)'" onmouseout="this.style.transform='scale(1)'">
+    <img src="https://www.iconfinder.com/icons/317750/download/png/512" height="70" style="border-radius: 10px; transition: transform 0.3s ease, box-shadow 0.3s ease; margin: 0 35px;" onmouseover="this.style.transform='scale(1.2)'; this.style.boxShadow='0 6px 20px rgba(0,0,0,0.2)'" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='none'">
   </a>
   <a href="https://www.instagram.com/___jaythakur___/" target="_blank" style="text-decoration: none;">
-    <img src="https://skillicons.dev/icons?i=instagram" height="60" style="transition: transform 0.3s ease; margin: 0 30px;" onmouseover="this.style.transform='scale(1.15)'" onmouseout="this.style.transform='scale(1)'">
+    <img src="https://www.iconfinder.com/icons/317744/download/png/512" height="70" style="border-radius: 10px; transition: transform 0.3s ease, box-shadow 0.3s ease; margin: 0 35px;" onmouseover="this.style.transform='scale(1.2)'; this.style.boxShadow='0 6px 20px rgba(0,0,0,0.2)'" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='none'">
   </a>
   <a href="mailto:mritunjaythakur903@gmail.com" style="text-decoration: none;">
-    <img src="https://skillicons.dev/icons?i=gmail" height="60" style="transition: transform 0.3s ease; margin: 0 30px;" onmouseover="this.style.transform='scale(1.15)'" onmouseout="this.style.transform='scale(1)'">
+    <img src="https://www.iconfinder.com/icons/317742/download/png/512" height="70" style="border-radius: 10px; transition: transform 0.3s ease, box-shadow 0.3s ease; margin: 0 35px;" onmouseover="this.style.transform='scale(1.2)'; this.style.boxShadow='0 6px 20px rgba(0,0,0,0.2)'" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='none'">
   </a>
 </p>
-<div align="center" style="margin-top: 25px;">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&fontSize=24&fontColor=ffffff" style="width: 100%; max-width: 650px; border-radius: 12px;" />
+<div align="center" style="margin-top: 30px;">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=130&section=footer&fontSize=26&fontColor=ffffff&animation=fadeIn" style="width: 100%; max-width: 700px; border-radius: 15px;" />
 </div>
