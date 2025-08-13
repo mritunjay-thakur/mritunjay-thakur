@@ -114,22 +114,27 @@
   </table>
 </div>
 
-<h2 align="center">🌟 Connect With Me</h2>
+<h2 align="center" style="font-family: 'Segoe UI', Arial, sans-serif; color: #333; font-size: 2.4em; margin: 0 0 20px;">
+  🌟 Connect With Me
+</h2>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/mritunjay-thakur-jay/" target="_blank" rel="noopener">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
-         alt="LinkedIn" title="LinkedIn — Mritunjay Thakur" />
+  <a href="https://www.linkedin.com/in/mritunjay-thakur-jay/" target="_blank">
+    <img alt="LinkedIn"
+      src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  &nbsp;
-  <a href="https://www.instagram.com/___jaythakur___/" target="_blank" rel="noopener">
-    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
-         alt="Instagram" title="Instagram — @___jaythakur___" />
+  <a href="https://www.instagram.com/___jaythakur___/" target="_blank">
+    <img alt="Instagram"
+      src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  &nbsp;
-  <a href="mailto:mritunjaythakur903@gmail.com" rel="noopener">
-    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
-         alt="Email" title="Email — mritunjaythakur903@gmail.com" />
+  <a href="mailto:mritunjaythakur903@gmail.com" target="_blank">
+    <img alt="Email"
+      src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
+
+<div align="center" style="margin-top: 18px;">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&fontSize=24&fontColor=ffffff" style="width: 100%; max-width: 650px; border-radius: 12px;" />
+</div>
+
 
