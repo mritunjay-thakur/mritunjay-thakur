@@ -5,7 +5,7 @@
     I’m all about building cool stuff, learning new tricks, and working with people who are just as passionate about tech as I am.  
     <strong>Open to collabs, freelance gigs, and full-time roles</strong> — if it’s exciting, I’m in.  
     <br/><br/>
-    Let’s code something that makes people go “damn, that’s nice.” 🚀
+    <h1>Let’s code something that makes people go “damn, that’s nice.”</h1>
   </p>
 </div>
 
