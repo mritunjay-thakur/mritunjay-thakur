@@ -114,19 +114,18 @@
   </table>
 </div>
 
-
-<h2 align="center" style="font-family: 'Segoe UI', Arial, sans-serif; color: #333; font-size: 2.5em; margin-bottom: 20px; text-shadow: 1px 1px 2px rgba(0,0,0,0.1);">🌟 Connect With Me</h2>
-<p align="center" style="margin: 0; padding: 20px;">
+<h2 align="center" style="font-family: 'Segoe UI', Arial, sans-serif; color: #333; font-size: 2.8em; margin-bottom: 25px; text-shadow: 1px 1px 3px rgba(0,0,0,0.15);">🌟 Connect With Me</h2>
+<p align="center" style="margin: 0; padding: 25px;">
   <a href="https://www.linkedin.com/in/mritunjay-thakur-jay/" target="_blank" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="40" style="border-radius: 8px; transition: transform 0.3s ease; margin: 0 10px;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="60" style="transition: transform 0.3s ease; margin: 0 15px;" onmouseover="this.style.transform='scale(1.15)'" onmouseout="this.style.transform='scale(1)'">
   </a>
   <a href="https://www.instagram.com/___jaythakur___/" target="_blank" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="40" style="border-radius: 8px; transition: transform 0.3s ease; margin: 0 10px;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">
+    <img src="https://skillicons.dev/icons?i=instagram" height="60" style="transition: transform 0.3s ease; margin: 0 15px;" onmouseover="this.style.transform='scale(1.15)'" onmouseout="this.style.transform='scale(1)'">
   </a>
   <a href="mailto:mritunjaythakur903@gmail.com" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="40" style="border-radius: 8px; transition: transform 0.3s ease; margin: 0 10px;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">
+    <img src="https://skillicons.dev/icons?i=gmail" height="60" style="transition: transform 0.3s ease; margin: 0 15px;" onmouseover="this.style.transform='scale(1.15)'" onmouseout="this.style.transform='scale(1)'">
   </a>
 </p>
-<div align="center" style="margin-top: 20px;">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&fontSize=20&fontColor=ffffff" style="width: 100%; max-width: 600px; border-radius: 10px;" />
+<div align="center" style="margin-top: 25px;">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&fontSize=24&fontColor=ffffff" style="width: 100%; max-width: 650px; border-radius: 12px;" />
 </div>
