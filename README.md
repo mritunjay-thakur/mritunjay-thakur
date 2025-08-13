@@ -4,8 +4,7 @@
     Hey there 👋, I’m <strong>Mritunjay Thakur</strong> — a 21-year-old full stack dev from New Delhi who’s a little obsessed with turning ideas into pixel-perfect, high-performance web apps. I vibe with <strong>React, Next.js, Node.js</strong>, and a bunch of other shiny tools that make the web faster, smarter, and better looking.  
     I’m all about building cool stuff, learning new tricks, and working with people who are just as passionate about tech as I am.  
     <strong>Open to collabs, freelance gigs, and full-time roles</strong> — if it’s exciting, I’m in.  
-    <br/><br/>
-    <h1>Let’s code something that makes people go “damn, that’s nice.”</h1>
+    <h3>Let’s code something that makes people go “damn, that’s nice.”</h3>
   </p>
 </div>
 
