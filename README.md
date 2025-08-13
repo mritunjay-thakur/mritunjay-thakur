@@ -53,7 +53,7 @@
         <img src="https://skillicons.dev/icons?i=express" width="48" alt="Express"/><br/><sub><b>Express</b></sub>
       </td>
       <td align="center" width="110">
-        <img src="https://skillicons.dev/icons?i=nestjs" width="48" alt="NestJS"/><br/><sub><b>NestJS</b></sub>
+         <img src="https://skillicons.dev/icons?i=nextjs" width="48" alt="Next.js"/><br/><sub><b>Next.js</b></sub>
       </td>
       <td align="center" width="110">
         <img src="https://cdn.simpleicons.org/openapiinitiative" width="48" alt="OpenAPI / REST"/><br/><sub><b>REST / OpenAPI</b></sub>
