@@ -35,7 +35,7 @@
       <td align="center"><img src="https://skillicons.dev/icons?i=nodejs" width="50"/><br>Node.js</td>
       <td align="center"><img src="https://skillicons.dev/icons?i=express" width="50"/><br>Express</td>
       <td align="center"><img src="https://skillicons.dev/icons?i=nestjs" width="50"/><br>NestJS</td>
-      <td align="center"><img src="https://uxwing.com/wp-content/themes/uxwing/download/web-app-development/rest-api-icon.svg" width="50"/><br>REST API</td>
+      <td align="center"><img src="https://www.svgrepo.com/show/473611/api.svg" width="50"/><br>REST API</td>
     </tr>
   </table>
 </p>
@@ -63,9 +63,9 @@
       <td align="center"><img src="https://skillicons.dev/icons?i=github" width="50"/><br>GitHub</td>
       <td align="center"><img src="https://skillicons.dev/icons?i=postman" width="50"/><br>Postman</td>
       <td align="center"><img src="https://skillicons.dev/icons?i=figma" width="50"/><br>Figma</td>
-      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="50"/><br>Google Auth</td>
-      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jwt/jwt-plain.svg" width="50"/><br>JWT</td>
-      <td align="center"><img src="https://www.svgrepo.com/download/306500/openai.svg" width="50"/><br>AI</td>
+      <td align="center"><img src="https://www.svgrepo.com/show/303251/google-icon-logo.svg" width="50"/><br>Google Auth</td>
+      <td align="center"><img src="https://www.svgrepo.com/show/353941/jsonwebtokens.svg" width="50"/><br>JWT</td>
+      <td align="center"><img src="https://www.svgrepo.com/show/306500/openai.svg" width="50"/><br>AI</td>
     </tr>
   </table>
 </p>
