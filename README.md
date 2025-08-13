@@ -55,17 +55,11 @@
       <td align="center">
         <img src="https://cdn.simpleicons.org/openapiinitiative" width="48" alt="OpenAPI / REST"/><br/><sub><b>REST API</b></sub>
       </td>
-      <td align="center">
-        <img src="https://skillicons.dev/icons?i=nestjs" width="48" alt="NestJS"/><br/><sub><b>NestJS</b></sub>
-      </td>
-      <td align="center">
-        <img src="https://skillicons.dev/icons?i=graphql" width="48" alt="GraphQL"/><br/><sub><b>GraphQL</b></sub>
-      </td>
     </tr>
   </table>
 </div>
 
-<h3 align="center">💾 Database & ☁️ Cloud</h3>
+<h3 align="center">💾 Database & Cloud ☁️</h3>
 <div align="center">
   <table cellspacing="10">
     <tr>
@@ -83,9 +77,6 @@
       </td>
       <td align="center">
         <img src="https://skillicons.dev/icons?i=vercel" width="48" alt="Vercel"/><br/><sub><b>Vercel</b></sub>
-      </td>
-      <td align="center">
-        <img src="https://skillicons.dev/icons?i=supabase" width="48" alt="Supabase"/><br/><sub><b>Supabase</b></sub>
       </td>
     </tr>
   </table>
@@ -117,7 +108,7 @@
         <img src="https://cdn.simpleicons.org/openai" width="48" alt="AI / OpenAI"/><br/><sub><b>AI integration</b></sub>
       </td>
       <td align="center">
-        <img src="https://img.icons8.com/material-rounded/48/more.png" width="48" alt="Many more"/><br/><sub><b>I also know many skills!</b></sub>
+        <img src="https://img.icons8.com/material-rounded/48/more.png" width="48" alt="Many more"/><br/><sub><b>Many More</b></sub>
       </td>
     </tr>
   </table>
