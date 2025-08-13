@@ -4,7 +4,7 @@
     Hey there 👋, I’m <strong>Mritunjay Thakur</strong> — a 21-year-old full stack dev from New Delhi who’s a little obsessed with turning ideas into pixel-perfect, high-performance web apps. I vibe with <strong>React, Next.js, Node.js</strong>, and a bunch of other shiny tools that make the web faster, smarter, and better looking.  
     I’m all about building cool stuff, learning new tricks, and working with people who are just as passionate about tech as I am.  
     <strong>Open to collabs, freelance gigs, and full-time roles</strong> — if it’s exciting, I’m in.  
-    <h3>Let’s code something that makes people go “damn, that’s nice.”</h3>
+    <h3>Let’s code something that makes people go “damn, that’s nice.” </h3>
   </p>
 </div>
 
@@ -115,11 +115,18 @@
 </div>
 
 
-
-
-
-
-
- <h2 align="center">🌐 Connect With Me</h2> 
-<p align="center"> <a href="https://www.linkedin.com/in/mritunjay-thakur-jay/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35"> </a> &nbsp;&nbsp;&nbsp; <a href="https://www.instagram.com/___jaythakur___/" target="_blank"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="35"> </a> &nbsp;&nbsp;&nbsp; <a href="mailto:mritunjaythakur903@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35"> </a> </p>
-<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=4D8CF5&height=120&section=footer&fontSize=30" /> </div>
+<h2 align="center" style="font-family: 'Segoe UI', Arial, sans-serif; color: #333; font-size: 2.5em; margin-bottom: 20px; text-shadow: 1px 1px 2px rgba(0,0,0,0.1);">🌟 Connect With Me</h2>
+<p align="center" style="margin: 0; padding: 20px;">
+  <a href="https://www.linkedin.com/in/mritunjay-thakur-jay/" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="40" style="border-radius: 8px; transition: transform 0.3s ease; margin: 0 10px;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">
+  </a>
+  <a href="https://www.instagram.com/___jaythakur___/" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="40" style="border-radius: 8px; transition: transform 0.3s ease; margin: 0 10px;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">
+  </a>
+  <a href="mailto:mritunjaythakur903@gmail.com" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="40" style="border-radius: 8px; transition: transform 0.3s ease; margin: 0 10px;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">
+  </a>
+</p>
+<div align="center" style="margin-top: 20px;">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&fontSize=20&fontColor=ffffff" style="width: 100%; max-width: 600px; border-radius: 10px;" />
+</div>
