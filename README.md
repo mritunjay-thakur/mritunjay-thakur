@@ -11,29 +11,49 @@
 
 <h2 align="center">🛠️ Tech Stack</h2>
 
+<!-- Frontend -->
 <h3 align="center">🎨 Frontend</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap,react,nextjs" />
+  <img src="https://skillicons.dev/icons?i=html" /> HTML &nbsp;
+  <img src="https://skillicons.dev/icons?i=css" /> CSS &nbsp;
+  <img src="https://skillicons.dev/icons?i=js" /> JavaScript &nbsp;
+  <img src="https://skillicons.dev/icons?i=tailwind" /> Tailwind CSS &nbsp;
+  <img src="https://skillicons.dev/icons?i=bootstrap" /> Bootstrap &nbsp;
+  <img src="https://skillicons.dev/icons?i=react" /> React &nbsp;
+  <img src="https://skillicons.dev/icons?i=nextjs" /> Next.js
 </p>
 
+<!-- Backend -->
 <h3 align="center">⚙️ Backend</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs" />
-  <img src="https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge&logo=rest&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=nodejs" /> Node.js &nbsp;
+  <img src="https://skillicons.dev/icons?i=express" /> Express.js &nbsp;
+  <img src="https://skillicons.dev/icons?i=nestjs" /> NestJS &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/api/api-original.svg" width="40" height="40" /> REST API
 </p>
 
+<!-- Database & Cloud -->
 <h3 align="center">💾 Database & ☁️ Cloud</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,postgres,redis,github,aws,vercel" />
+  <img src="https://skillicons.dev/icons?i=mongodb" /> MongoDB &nbsp;
+  <img src="https://skillicons.dev/icons?i=postgres" /> PostgreSQL &nbsp;
+  <img src="https://skillicons.dev/icons?i=redis" /> Redis &nbsp;
+  <img src="https://skillicons.dev/icons?i=aws" /> AWS &nbsp;
+  <img src="https://skillicons.dev/icons?i=vercel" /> Vercel
 </p>
 
+<!-- Tools & More -->
 <h3 align="center">🧰 Tools & More</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,postman,figma" />
-  <img src="https://img.shields.io/badge/AI-FF6F00?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=jsonwebtokens" />
-  <img src="https://img.shields.io/badge/Google%20Auth-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=git" /> Git &nbsp;
+  <img src="https://skillicons.dev/icons?i=github" /> GitHub &nbsp;
+  <img src="https://skillicons.dev/icons?i=postman" /> Postman &nbsp;
+  <img src="https://skillicons.dev/icons?i=figma" /> Figma &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40" height="40" /> Google Auth &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jwt/jwt-plain.svg" width="40" height="40" /> JWT &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/openai/openai-original.svg" width="40" height="40" /> AI Integration
 </p>
+
 
 
  <h2 align="center">🌐 Connect With Me</h2> 
