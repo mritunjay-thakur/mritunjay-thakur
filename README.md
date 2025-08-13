@@ -1,9 +1,7 @@
 <h1 align="center">👋 Hi, I'm Mritunjay Thakur</h1> <h3 align="center">💻 21 y/o Full Stack Developer from New Delhi, India</h3><p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=800&color=4D8CF5&center=true&vCenter=true&width=550&lines=Let's+build+something+great+together" alt="Typing SVG"> </p>
-<div align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; line-height: 1.6;">
+<div align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; line-height: 3;">
   <p style="max-width: 720px; color: #c9d1d9; font-size: 18px; font-weight: 500;">
-    Hey there 👋, I’m <strong>Mritunjay Thakur</strong> — a 21-year-old full stack dev from New Delhi who’s a little obsessed with turning ideas into pixel-perfect, high-performance web apps.  
-    I vibe with <strong>React, Next.js, Node.js</strong>, and a bunch of other shiny tools that make the web faster, smarter, and better looking.  
-    <br/><br/>
+    Hey there 👋, I’m <strong>Mritunjay Thakur</strong> — a 21-year-old full stack dev from New Delhi who’s a little obsessed with turning ideas into pixel-perfect, high-performance web apps. I vibe with <strong>React, Next.js, Node.js</strong>, and a bunch of other shiny tools that make the web faster, smarter, and better looking.  
     I’m all about building cool stuff, learning new tricks, and working with people who are just as passionate about tech as I am.  
     <strong>Open to collabs, freelance gigs, and full-time roles</strong> — if it’s exciting, I’m in.  
     <br/><br/>
