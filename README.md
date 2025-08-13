@@ -56,13 +56,12 @@
          <img src="https://skillicons.dev/icons?i=nextjs" width="48" alt="Next.js"/><br/><sub><b>Next.js</b></sub>
       </td>
       <td align="center" width="110">
-        <img src="https://cdn.simpleicons.org/openapiinitiative" width="48" alt="OpenAPI / REST"/><br/><sub><b>REST / OpenAPI</b></sub>
+        <img src="https://cdn.simpleicons.org/openapiinitiative" width="48" alt="OpenAPI / REST"/><br/><sub><b>REST API</b></sub>
       </td>
     </tr>
   </table>
 </div>
 
-<!-- Database & Cloud -->
 <h3 align="center">💾 Database & ☁️ Cloud</h3>
 <div align="center">
   <table>
@@ -86,7 +85,6 @@
   </table>
 </div>
 
-<!-- Tools & More -->
 <h3 align="center">🧰 Tools & More</h3>
 <div align="center">
   <table>
@@ -110,7 +108,7 @@
         <img src="https://cdn.simpleicons.org/jsonwebtokens" width="48" alt="JWT"/><br/><sub><b>JWT</b></sub>
       </td>
       <td align="center" width="110">
-        <img src="https://cdn.simpleicons.org/openai" width="48" alt="AI / OpenAI"/><br/><sub><b>AI / OpenAI</b></sub>
+        <img src="https://cdn.simpleicons.org/openai" width="48" alt="AI / OpenAI"/><br/><sub><b>AI integration</b></sub>
       </td>
     </tr>
   </table>
