@@ -117,13 +117,13 @@
 <h2 align="center" style="font-family: 'Segoe UI', Arial, sans-serif; color: #333; font-size: 2.8em; margin-bottom: 25px; text-shadow: 1px 1px 3px rgba(0,0,0,0.15);">🌟 Connect With Me</h2>
 <p align="center" style="margin: 0; padding: 25px;">
   <a href="https://www.linkedin.com/in/mritunjay-thakur-jay/" target="_blank" style="text-decoration: none;">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="60" style="transition: transform 0.3s ease; margin: 0 15px;" onmouseover="this.style.transform='scale(1.15)'" onmouseout="this.style.transform='scale(1)'">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="60" style="transition: transform 0.3s ease; margin: 0 30px;" onmouseover="this.style.transform='scale(1.15)'" onmouseout="this.style.transform='scale(1)'">
   </a>
   <a href="https://www.instagram.com/___jaythakur___/" target="_blank" style="text-decoration: none;">
-    <img src="https://skillicons.dev/icons?i=instagram" height="60" style="transition: transform 0.3s ease; margin: 0 15px;" onmouseover="this.style.transform='scale(1.15)'" onmouseout="this.style.transform='scale(1)'">
+    <img src="https://skillicons.dev/icons?i=instagram" height="60" style="transition: transform 0.3s ease; margin: 0 30px;" onmouseover="this.style.transform='scale(1.15)'" onmouseout="this.style.transform='scale(1)'">
   </a>
   <a href="mailto:mritunjaythakur903@gmail.com" style="text-decoration: none;">
-    <img src="https://skillicons.dev/icons?i=gmail" height="60" style="transition: transform 0.3s ease; margin: 0 15px;" onmouseover="this.style.transform='scale(1.15)'" onmouseout="this.style.transform='scale(1)'">
+    <img src="https://skillicons.dev/icons?i=gmail" height="60" style="transition: transform 0.3s ease; margin: 0 30px;" onmouseover="this.style.transform='scale(1.15)'" onmouseout="this.style.transform='scale(1)'">
   </a>
 </p>
 <div align="center" style="margin-top: 25px;">
