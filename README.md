@@ -1,14 +1,16 @@
 <h1 align="center">👋 Hi, I'm Mritunjay Thakur</h1> <h3 align="center">💻 21 y/o Full Stack Developer from New Delhi, India</h3><p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=800&color=4D8CF5&center=true&vCenter=true&width=550&lines=Let's+build+something+great+together" alt="Typing SVG"> </p>
-<div align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; line-height: 1;">
-  <p style="max-width: 600px; margin-top: -20px; color: #c9d1d9; font-size: 20px;">
-    I'm <strong>Mritunjay Thakur</strong>, a passionate <strong>21-year-old Full Stack Developer</strong> from New Delhi, India. 
-    I specialize in crafting dynamic, user-friendly web applications using 
-    <strong>React, Node.js, Express, and Next.js</strong>, with a solid foundation in 
-    <strong>HTML, CSS, and JavaScript</strong>. My expertise extends to working with both 
-    <strong>SQL</strong> and <strong>NoSQL databases</strong>, integrating AI solutions, and implementing secure authentication with <strong>JWT</strong> and <strong>Google Auth</strong>. 
-    Beyond coding, I enjoy solving complex problems, learning new technologies, and creating impactful digital experiences.
+<div align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; line-height: 1.6;">
+  <p style="max-width: 720px; color: #c9d1d9; font-size: 18px; font-weight: 500;">
+    Hey there 👋, I’m <strong>Mritunjay Thakur</strong> — a 21-year-old full stack dev from New Delhi who’s a little obsessed with turning ideas into pixel-perfect, high-performance web apps.  
+    I vibe with <strong>React, Next.js, Node.js</strong>, and a bunch of other shiny tools that make the web faster, smarter, and better looking.  
+    <br/><br/>
+    I’m all about building cool stuff, learning new tricks, and working with people who are just as passionate about tech as I am.  
+    <strong>Open to collabs, freelance gigs, and full-time roles</strong> — if it’s exciting, I’m in.  
+    <br/><br/>
+    Let’s code something that makes people go “damn, that’s nice.” 🚀
   </p>
 </div>
+
 
 
  <h2 align="center">🛠️ Tech Stack</h2> 
