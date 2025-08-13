@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Mritunjay Thakur</h1> <h3 align="center">💻 21 y/o Full Stack Developer from New Delhi, India</h3><p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=800&color=4D8CF5&center=true&vCenter=true&width=550&lines=Let's+build+something+great+together" alt="Typing SVG"> </p>
-<div align="left" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; line-height: 1.6;">
+<div align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; line-height: 1;">
 
 📌 **Currently Building:**  
 ‣ Next-Gen Full-Stack Applications  
