@@ -10,109 +10,49 @@
 
 <h2 align="center">🛠️ Tech Stack</h2>
 
+<!-- 🎨 Frontend -->
 <h3 align="center">🎨 Frontend</h3>
-<div align="center">
-  <table style="border-collapse: collapse; border: none;">
-    <tr>
-      <td align="center" width="90" style="border:none;">
-        <img src="https://skillicons.dev/icons?i=html" width="48" alt="HTML"/><br/><sub><b>HTML</b></sub>
-      </td>
-      <td align="center" width="90" style="border:none;">
-        <img src="https://skillicons.dev/icons?i=css" width="48" alt="CSS"/><br/><sub><b>CSS</b></sub>
-      </td>
-      <td align="center" width="90" style="border:none;">
-        <img src="https://skillicons.dev/icons?i=js" width="48" alt="JavaScript"/><br/><sub><b>JavaScript</b></sub>
-      </td>
-      <td align="center" width="90" style="border:none;">
-        <img src="https://skillicons.dev/icons?i=tailwind" width="48" alt="Tailwind"/><br/><sub><b>Tailwind</b></sub>
-      </td>
-      <td align="center" width="90" style="border:none;">
-        <img src="https://skillicons.dev/icons?i=bootstrap" width="48" alt="Bootstrap"/><br/><sub><b>Bootstrap</b></sub>
-      </td>
-      <td align="center" width="90" style="border:none;">
-        <img src="https://skillicons.dev/icons?i=react" width="48" alt="React"/><br/><sub><b>React</b></sub>
-      </td>
-      <td align="center" width="90" style="border:none;">
-        <img src="https://skillicons.dev/icons?i=nextjs" width="48" alt="Next.js"/><br/><sub><b>Next.js</b></sub>
-      </td>
-    </tr>
-  </table>
+<div align="center" style="display:flex;flex-wrap:wrap;gap:15px;justify-content:center;">
+  <img src="https://skillicons.dev/icons?i=html" width="48" alt="HTML" title="HTML">
+  <img src="https://skillicons.dev/icons?i=css" width="48" alt="CSS" title="CSS">
+  <img src="https://skillicons.dev/icons?i=js" width="48" alt="JavaScript" title="JavaScript">
+  <img src="https://skillicons.dev/icons?i=tailwind" width="48" alt="Tailwind" title="Tailwind CSS">
+  <img src="https://skillicons.dev/icons?i=bootstrap" width="48" alt="Bootstrap" title="Bootstrap">
+  <img src="https://skillicons.dev/icons?i=react" width="48" alt="React" title="React">
+  <img src="https://skillicons.dev/icons?i=nextjs" width="48" alt="Next.js" title="Next.js">
 </div>
 
+<!-- ⚙️ Backend -->
 <h3 align="center">⚙️ Backend</h3>
-<div align="center">
-  <table style="border-collapse: collapse; border: none;">
-    <tr>
-      <td align="center" width="110" style="border:none;">
-        <img src="https://skillicons.dev/icons?i=nodejs" width="48" alt="Node.js"/><br/><sub><b>Node.js</b></sub>
-      </td>
-      <td align="center" width="110" style="border:none;">
-        <img src="https://skillicons.dev/icons?i=express" width="48" alt="Express"/><br/><sub><b>Express</b></sub>
-      </td>
-      <td align="center" width="110" style="border:none;">
-        <img src="https://skillicons.dev/icons?i=nestjs" width="48" alt="NestJS"/><br/><sub><b>NestJS</b></sub>
-      </td>
-      <td align="center" width="110" style="border:none;">
-        <img src="https://cdn.simpleicons.org/openapiinitiative" width="48" alt="REST API"/><br/><sub><b>REST API</b></sub>
-      </td>
-    </tr>
-  </table>
+<div align="center" style="display:flex;flex-wrap:wrap;gap:15px;justify-content:center;">
+  <img src="https://skillicons.dev/icons?i=nodejs" width="48" alt="Node.js" title="Node.js">
+  <img src="https://skillicons.dev/icons?i=express" width="48" alt="Express" title="Express.js">
+  <img src="https://cdn.simpleicons.org/openapiinitiative" width="48" alt="REST API" title="REST API">
 </div>
 
+<!-- 💾 Database & Cloud -->
 <h3 align="center">💾 Database & ☁️ Cloud</h3>
-<div align="center">
-  <table style="border-collapse: collapse; border: none;">
-    <tr>
-      <td align="center" width="100" style="border:none;">
-        <img src="https://skillicons.dev/icons?i=mongodb" width="48" alt="MongoDB"/><br/><sub><b>MongoDB</b></sub>
-      </td>
-      <td align="center" width="100" style="border:none;">
-        <img src="https://skillicons.dev/icons?i=postgres" width="48" alt="PostgreSQL"/><br/><sub><b>PostgreSQL</b></sub>
-      </td>
-      <td align="center" width="100" style="border:none;">
-        <img src="https://skillicons.dev/icons?i=redis" width="48" alt="Redis"/><br/><sub><b>Redis</b></sub>
-      </td>
-      <td align="center" width="100" style="border:none;">
-        <img src="https://skillicons.dev/icons?i=aws" width="48" alt="AWS"/><br/><sub><b>AWS</b></sub>
-      </td>
-      <td align="center" width="100" style="border:none;">
-        <img src="https://skillicons.dev/icons?i=vercel" width="48" alt="Vercel"/><br/><sub><b>Vercel</b></sub>
-      </td>
-    </tr>
-  </table>
+<div align="center" style="display:flex;flex-wrap:wrap;gap:15px;justify-content:center;">
+  <img src="https://skillicons.dev/icons?i=mongodb" width="48" alt="MongoDB" title="MongoDB">
+  <img src="https://skillicons.dev/icons?i=postgres" width="48" alt="PostgreSQL" title="PostgreSQL">
+  <img src="https://skillicons.dev/icons?i=redis" width="48" alt="Redis" title="Redis">
+  <img src="https://skillicons.dev/icons?i=aws" width="48" alt="AWS" title="AWS">
+  <img src="https://skillicons.dev/icons?i=vercel" width="48" alt="Vercel" title="Vercel">
 </div>
 
+<!-- 🧰 Tools & More -->
 <h3 align="center">🧰 Tools & More</h3>
-<div align="center">
-  <table style="border-collapse: collapse; border: none;">
-    <tr>
-      <td align="center" width="95" style="border:none;">
-        <img src="https://skillicons.dev/icons?i=git" width="48" alt="Git"/><br/><sub><b>Git</b></sub>
-      </td>
-      <td align="center" width="95" style="border:none;">
-        <img src="https://skillicons.dev/icons?i=github" width="48" alt="GitHub"/><br/><sub><b>GitHub</b></sub>
-      </td>
-      <td align="center" width="95" style="border:none;">
-        <img src="https://skillicons.dev/icons?i=postman" width="48" alt="Postman"/><br/><sub><b>Postman</b></sub>
-      </td>
-      <td align="center" width="95" style="border:none;">
-        <img src="https://skillicons.dev/icons?i=figma" width="48" alt="Figma"/><br/><sub><b>Figma</b></sub>
-      </td>
-      <td align="center" width="110" style="border:none;">
-        <img src="https://cdn.simpleicons.org/google" width="48" alt="Google Auth"/><br/><sub><b>Google Auth</b></sub>
-      </td>
-      <td align="center" width="95" style="border:none;">
-        <img src="https://cdn.simpleicons.org/jsonwebtokens" width="48" alt="JWT"/><br/><sub><b>JWT</b></sub>
-      </td>
-      <td align="center" width="110" style="border:none;">
-        <img src="https://cdn.simpleicons.org/openai" width="48" alt="AI / OpenAI"/><br/><sub><b>AI Integration</b></sub>
-      </td>
-      <td align="center" width="110" style="border:none;">
-        <img src="https://cdn.simpleicons.org/more" width="48" alt="More Skills"/><br/><sub><b>Many More…</b></sub>
-      </td>
-    </tr>
-  </table>
+<div align="center" style="display:flex;flex-wrap:wrap;gap:15px;justify-content:center;">
+  <img src="https://skillicons.dev/icons?i=git" width="48" alt="Git" title="Git">
+  <img src="https://skillicons.dev/icons?i=github" width="48" alt="GitHub" title="GitHub">
+  <img src="https://skillicons.dev/icons?i=postman" width="48" alt="Postman" title="Postman">
+  <img src="https://skillicons.dev/icons?i=figma" width="48" alt="Figma" title="Figma">
+  <img src="https://cdn.simpleicons.org/google" width="48" alt="Google Auth" title="Google Auth">
+  <img src="https://cdn.simpleicons.org/jsonwebtokens" width="48" alt="JWT" title="JWT">
+  <img src="https://cdn.simpleicons.org/openai" width="48" alt="AI / OpenAI" title="AI Integration">
+  <img src="https://cdn.simpleicons.org/more" width="48" alt="Many More..." title="And Many More!">
 </div>
+
 
 
 
