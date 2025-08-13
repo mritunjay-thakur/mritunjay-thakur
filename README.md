@@ -11,8 +11,8 @@
 </div>
 
 
-🛠️ Tech Stack
-<p align="center"> <h3 align="center">Frontend</h3> <p align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap,react,nextjs,redis" /> </p> <h3 align="center">Backend</h3> <p align="center"> <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,restapi" /> </p> <h3 align="center">Database & Cloud</h3> <p align="center"> <img src="https://skillicons.dev/icons?i=mongodb,postgres,redis,github,aws,vercel" /> </p> <h3 align="center">Tools & More</h3> <p align="center"> <img src="https://skillicons.dev/icons?i=git,github,postman,figma,ai,jwt,google" /> </p> </p>
+
+<p align="center"> <h1>🛠️ Tech Stack</h1> <h3 align="center">Frontend</h3> <p align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap,react,nextjs,redis" /> </p> <h3 align="center">Backend</h3> <p align="center"> <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,restapi" /> </p> <h3 align="center">Database & Cloud</h3> <p align="center"> <img src="https://skillicons.dev/icons?i=mongodb,postgres,redis,github,aws,vercel" /> </p> <h3 align="center">Tools & More</h3> <p align="center"> <img src="https://skillicons.dev/icons?i=git,github,postman,figma,ai,jwt,google" /> </p> </p>
 
 🌐 Connect With Me
 <p align="center"> <a href="https://www.linkedin.com/in/mritunjay-thakur-jay/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35"> </a> &nbsp;&nbsp;&nbsp; <a href="https://www.instagram.com/___jaythakur___/" target="_blank"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="35"> </a> &nbsp;&nbsp;&nbsp; <a href="mailto:mritunjaythakur903@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35"> </a> </p>
