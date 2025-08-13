@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Mritunjay Thakur</h1> <h3 align="center">💻 21 y/o Full Stack Developer from New Delhi, India</h3><p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=800&color=4D8CF5&center=true&vCenter=true&width=550&lines=Turning+ideas+into+reality%2C+one+line+of+code+at+a+time" alt="Typing SVG"> </p>
+<h1 align="center">👋 Hi, I'm Mritunjay Thakur</h1> <h3 align="center">💻 21 y/o Full Stack Developer from New Delhi, India</h3><p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=800&color=4D8CF5&center=true&vCenter=true&width=550&lines=Let's+build+something+great+together" alt="Typing SVG"> </p>
 🚀 About Me
 
 🔭 Currently building Next-Gen Full-Stack Applications
