@@ -75,37 +75,27 @@
 </div>
 
 <h2 align="center">🤖 AI Integration</h2>
-<div align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; line-height: 2.5; max-width: 720px; color: #c9d1d9; font-size: 18px; font-weight: 500;">
+<div align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; line-height: 1.8; max-width: 720px; color: #c9d1d9; font-size: 16px; font-weight: 500;">
   <p>
-    I integrate advanced AI and Large Language Models (LLMs) into web applications to make them smarter, more interactive, and personalized. I work with APIs like <strong>OpenAI, OpenRouter, and Hugging Face</strong> to implement AI features such as chatbots, recommendation systems, content generation, and automation.  
-    My goal is to combine AI capabilities with full-stack development for <strong>real-world, scalable solutions</strong>.  
+    I integrate AI and Large Language Models (LLMs) into web apps using <strong>OpenAI, OpenRouter, and Hugging Face</strong> to make them smarter and interactive.  
+    From chatbots to recommendation systems and automation, I combine AI with full-stack development for <strong>real-world solutions</strong>.
   </p>
-
   <p>
-    🔹 <strong>Highlights:</strong><br>
-    • Embedding LLMs into web apps for real-time interaction.<br>
-    • Using multiple AI APIs for flexible and powerful AI solutions.<br>
-    • Creating personalized and dynamic user experiences with AI.<br>
-    • Automating complex tasks to increase efficiency.
+    🔹 <strong>Highlights:</strong> Embedding LLMs for real-time interaction, using multiple AI APIs, creating dynamic user experiences, and automating tasks efficiently.
   </p>
 </div>
-
 
 <h2 align="center">⚡ Prompt Engineering</h2>
-<div align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; line-height: 2.5; max-width: 720px; color: #c9d1d9; font-size: 18px; font-weight: 500;">
+<div align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; line-height: 1.8; max-width: 720px; color: #c9d1d9; font-size: 16px; font-weight: 500;">
   <p>
-    I am a <strong>master in prompt engineering</strong>, crafting precise AI prompts that allow AI to perform most of the work for me. This makes me extremely fast and efficient while building AI-driven solutions.  
-    Prompt engineering also allows me to gain deep insights into AI behavior, enabling me to create innovative applications and workflows.
+    I craft precise AI prompts that let AI handle most of the work, making me fast and efficient in building AI-powered solutions.  
+    This also gives me deep insights into AI behavior for innovative workflows.
   </p>
-
   <p>
-    ⚡ <strong>Benefits & Highlights:</strong><br>
-    • Leverage AI to automate repetitive tasks and generate content.<br>
-    • Enhance productivity and speed in development projects.<br>
-    • Gain deep knowledge of AI models, outputs, and best practices.<br>
-    • Create creative, high-quality solutions with minimal manual work.
+    ⚡ <strong>Benefits:</strong> Automate tasks, boost productivity, gain AI knowledge, and create high-quality solutions with minimal effort.
   </p>
 </div>
+
 
 
 <h2 align="center" style="font-family: 'Segoe UI', Arial, sans-serif; color: #333; font-size: 2.4em; margin: 0 0 20px;">
