@@ -7,11 +7,12 @@
 
 <div align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; line-height: 3;">
   <p style="max-width: 720px; color: #c9d1d9; font-size: 18px; font-weight: 500;">
-    Hey there 👋, I’m <strong>Mritunjay Thakur</strong> — a 21-year-old full stack dev from New Delhi. I specialize in building **pixel-perfect, high-performance web apps** using <strong>React, Next.js, Node.js, and TypeScript</strong>.  
-    I’m also a **master in prompt engineering** — I can create AI-driven applications just by crafting the right prompts. For example, I built <strong><a href="https://aiclothify.vercel.app" target="_blank">Clothify.AI</a></strong>, a fashion AI that generates outfits and styles using OpenAI integration.  
-    I love learning, innovating, and collaborating with passionate people.  
-    <strong>Open to collabs, freelance gigs, and full-time roles</strong> — if it’s exciting, I’m in.  
-    <h3>Let’s code something that makes people go “damn, that’s nice.”</h3>
+    Hey there 👋, I’m <strong>Mritunjay Thakur</strong> — a 21-year-old full stack developer from New Delhi.  
+    I specialize in building <strong>pixel-perfect, high-performance web apps</strong> using <strong>React, Next.js, Node.js, and TypeScript</strong>.  
+    I’m passionate about <strong>AI integration and prompt engineering</strong>, transforming ideas into smart, interactive web solutions.  
+    I’m all about learning, innovating, and collaborating with people who are equally passionate about tech.  
+    <strong>Open to collaborations, freelance gigs, and full-time opportunities.</strong>  
+    <h3>Let’s build something that makes people go “wow, that’s awesome!”</h3>
   </p>
 </div>
 
@@ -57,7 +58,7 @@
   </table>
 </div>
 
-<h3 align="center">🧰 Tools & AI</h3>
+<h3 align="center">🧰 Tools & More</h3>
 <div align="center">
   <table cellspacing="10">
     <tr>
@@ -71,6 +72,23 @@
       <td align="center"><img src="https://img.icons8.com/material-rounded/48/more.png" width="48" alt="Many more"/><br/><sub><b>Many More</b></sub></td>
     </tr>
   </table>
+</div>
+
+<h2 align="center">🤖 Prompt Engineering & AI Integration</h2>
+<div align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; line-height: 2.5;">
+  <p style="max-width: 720px; color: #c9d1d9; font-size: 18px; font-weight: 500;">
+    I’m a <strong>master in prompt engineering</strong> — skilled at designing precise prompts that make AI tools perform exactly as needed.  
+    I integrate AI into web apps to make them smarter, more interactive, and personalized.  
+    From chatbots and recommendation systems to content generation and automation, I leverage AI to <strong>enhance real-world applications</strong>.
+  </p>
+
+  <h3 style="margin-top: 16px;">🔹 AI Skills & Applications</h3>
+  <ul style="list-style-type: disc; margin-left: 40px; text-align: left; color: #c9d1d9;">
+    <li>Designing precise AI prompts for desired outputs.</li>
+    <li>Integrating OpenAI APIs into full-stack projects.</li>
+    <li>Creating AI-powered interactive features for web apps.</li>
+    <li>Experimenting with AI for automation, personalization, and creative applications.</li>
+  </ul>
 </div>
 
 <h2 align="center" style="font-family: 'Segoe UI', Arial, sans-serif; color: #333; font-size: 2.4em; margin: 0 0 20px;">
