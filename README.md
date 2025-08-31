@@ -80,9 +80,6 @@
     I integrate AI and Large Language Models (LLMs) into web apps using <strong>OpenAI, OpenRouter, and Hugging Face</strong> to make them smarter and interactive.  
     From chatbots to recommendation systems and automation, I combine AI with full-stack development for <strong>real-world solutions</strong>.
   </p>
-  <p>
-    🔹 <strong>Highlights:</strong> Embedding LLMs for real-time interaction, using multiple AI APIs, creating dynamic user experiences, and automating tasks efficiently.
-  </p>
 </div>
 
 <h2 align="center">⚡ Prompt Engineering</h2>
@@ -90,9 +87,6 @@
   <p>
     I craft precise AI prompts that let AI handle most of the work, making me fast and efficient in building AI-powered solutions.  
     This also gives me deep insights into AI behavior for innovative workflows.
-  </p>
-  <p>
-    ⚡ <strong>Benefits:</strong> Automate tasks, boost productivity, gain AI knowledge, and create high-quality solutions with minimal effort.
   </p>
 </div>
 
