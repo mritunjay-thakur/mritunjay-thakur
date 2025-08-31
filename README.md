@@ -9,7 +9,7 @@
   <p style="max-width: 720px; color: #c9d1d9; font-size: 18px; font-weight: 500;">
     Hey there 👋, I’m <strong>Mritunjay Thakur</strong> — a 21-year-old full stack developer from New Delhi.  
     I specialize in building <strong>pixel-perfect, high-performance web apps</strong> using <strong>React, Next.js, Node.js, and TypeScript</strong>.  
-    I’m passionate about <strong>AI integration and prompt engineering</strong>, transforming ideas into smart, interactive web solutions.  
+    I’m passionate about <strong>AI integration and prompt engineering</strong>, turning AI capabilities into practical web solutions.  
     I’m all about learning, innovating, and collaborating with people who are equally passionate about tech.  
     <strong>Open to collaborations, freelance gigs, and full-time opportunities.</strong>  
     <h3>Let’s build something that makes people go “wow, that’s awesome!”</h3>
@@ -58,7 +58,7 @@
   </table>
 </div>
 
-<h3 align="center">🧰 Tools & More</h3>
+<h3 align="center">🧰 Tools & AI</h3>
 <div align="center">
   <table cellspacing="10">
     <tr>
@@ -74,20 +74,37 @@
   </table>
 </div>
 
-<h2 align="center">🤖 Prompt Engineering & AI Integration</h2>
+<h2 align="center">🤖 AI Integration</h2>
 <div align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; line-height: 2.5;">
   <p style="max-width: 720px; color: #c9d1d9; font-size: 18px; font-weight: 500;">
-    I’m a <strong>master in prompt engineering</strong> — skilled at designing precise prompts that make AI tools perform exactly as needed.  
-    I integrate AI into web apps to make them smarter, more interactive, and personalized.  
-    From chatbots and recommendation systems to content generation and automation, I leverage AI to <strong>enhance real-world applications</strong>.
+    I integrate advanced AI and Large Language Models (LLMs) into web applications to make them smarter, more interactive, and personalized.  
+    I work with APIs like <strong>OpenAI, OpenRouter, and Hugging Face</strong> to implement AI features such as chatbots, recommendation systems, content generation, and automation.  
+    My goal is to combine AI capabilities with full-stack development for <strong>real-world, scalable solutions</strong>.
   </p>
 
-  <h3 style="margin-top: 16px;">🔹 AI Skills & Applications</h3>
+  <h3 style="margin-top: 16px;">🔹 AI Integration Highlights</h3>
   <ul style="list-style-type: disc; margin-left: 40px; text-align: left; color: #c9d1d9;">
-    <li>Designing precise AI prompts for desired outputs.</li>
-    <li>Integrating OpenAI APIs into full-stack projects.</li>
-    <li>Creating AI-powered interactive features for web apps.</li>
-    <li>Experimenting with AI for automation, personalization, and creative applications.</li>
+    <li>Embedding LLMs into web apps for real-time interaction.</li>
+    <li>Using multiple AI APIs for flexible and powerful AI solutions.</li>
+    <li>Creating personalized and dynamic user experiences with AI.</li>
+    <li>Automating complex tasks to increase efficiency.</li>
+  </ul>
+</div>
+
+<h2 align="center">⚡ Prompt Engineering</h2>
+<div align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; line-height: 2.5;">
+  <p style="max-width: 720px; color: #c9d1d9; font-size: 18px; font-weight: 500;">
+    I am a <strong>master in prompt engineering</strong>, crafting precise AI prompts that allow AI to perform most of the work for me.  
+    This makes me extremely fast and efficient while building AI-driven solutions.  
+    Prompt engineering also allows me to gain deep insights and understanding of AI behavior, enabling me to create innovative applications and workflows.
+  </p>
+
+  <h3 style="margin-top: 16px;">🔹 Prompt Engineering Benefits</h3>
+  <ul style="list-style-type: disc; margin-left: 40px; text-align: left; color: #c9d1d9;">
+    <li>Leverage AI to automate repetitive tasks and generate content.</li>
+    <li>Enhance productivity and speed in development projects.</li>
+    <li>Gain knowledge of AI models, outputs, and best practices.</li>
+    <li>Create creative, high-quality solutions with minimal manual work.</li>
   </ul>
 </div>
 
