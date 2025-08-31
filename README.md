@@ -75,38 +75,38 @@
 </div>
 
 <h2 align="center">🤖 AI Integration</h2>
-<div align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; line-height: 2.5;">
-  <p style="max-width: 720px; color: #c9d1d9; font-size: 18px; font-weight: 500;">
-    I integrate advanced AI and Large Language Models (LLMs) into web applications to make them smarter, more interactive, and personalized.  
-    I work with APIs like <strong>OpenAI, OpenRouter, and Hugging Face</strong> to implement AI features such as chatbots, recommendation systems, content generation, and automation.  
-    My goal is to combine AI capabilities with full-stack development for <strong>real-world, scalable solutions</strong>.
+<div align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; line-height: 2.5; max-width: 720px; color: #c9d1d9; font-size: 18px; font-weight: 500;">
+  <p>
+    I integrate advanced AI and Large Language Models (LLMs) into web applications to make them smarter, more interactive, and personalized. I work with APIs like <strong>OpenAI, OpenRouter, and Hugging Face</strong> to implement AI features such as chatbots, recommendation systems, content generation, and automation.  
+    My goal is to combine AI capabilities with full-stack development for <strong>real-world, scalable solutions</strong>.  
   </p>
 
-  <h3 style="margin-top: 16px;">🔹 AI Integration Highlights</h3>
-  <ul style="list-style-type: disc; margin-left: 40px; text-align: left; color: #c9d1d9;">
-    <li>Embedding LLMs into web apps for real-time interaction.</li>
-    <li>Using multiple AI APIs for flexible and powerful AI solutions.</li>
-    <li>Creating personalized and dynamic user experiences with AI.</li>
-    <li>Automating complex tasks to increase efficiency.</li>
-  </ul>
+  <p>
+    🔹 <strong>Highlights:</strong><br>
+    • Embedding LLMs into web apps for real-time interaction.<br>
+    • Using multiple AI APIs for flexible and powerful AI solutions.<br>
+    • Creating personalized and dynamic user experiences with AI.<br>
+    • Automating complex tasks to increase efficiency.
+  </p>
 </div>
+
 
 <h2 align="center">⚡ Prompt Engineering</h2>
-<div align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; line-height: 2.5;">
-  <p style="max-width: 720px; color: #c9d1d9; font-size: 18px; font-weight: 500;">
-    I am a <strong>master in prompt engineering</strong>, crafting precise AI prompts that allow AI to perform most of the work for me.  
-    This makes me extremely fast and efficient while building AI-driven solutions.  
-    Prompt engineering also allows me to gain deep insights and understanding of AI behavior, enabling me to create innovative applications and workflows.
+<div align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; line-height: 2.5; max-width: 720px; color: #c9d1d9; font-size: 18px; font-weight: 500;">
+  <p>
+    I am a <strong>master in prompt engineering</strong>, crafting precise AI prompts that allow AI to perform most of the work for me. This makes me extremely fast and efficient while building AI-driven solutions.  
+    Prompt engineering also allows me to gain deep insights into AI behavior, enabling me to create innovative applications and workflows.
   </p>
 
-  <h3 style="margin-top: 16px;">🔹 Prompt Engineering Benefits</h3>
-  <ul style="list-style-type: disc; margin-left: 40px; text-align: left; color: #c9d1d9;">
-    <li>Leverage AI to automate repetitive tasks and generate content.</li>
-    <li>Enhance productivity and speed in development projects.</li>
-    <li>Gain knowledge of AI models, outputs, and best practices.</li>
-    <li>Create creative, high-quality solutions with minimal manual work.</li>
-  </ul>
+  <p>
+    ⚡ <strong>Benefits & Highlights:</strong><br>
+    • Leverage AI to automate repetitive tasks and generate content.<br>
+    • Enhance productivity and speed in development projects.<br>
+    • Gain deep knowledge of AI models, outputs, and best practices.<br>
+    • Create creative, high-quality solutions with minimal manual work.
+  </p>
 </div>
+
 
 <h2 align="center" style="font-family: 'Segoe UI', Arial, sans-serif; color: #333; font-size: 2.4em; margin: 0 0 20px;">
   🌟 Connect With Me
